@@ -8,35 +8,45 @@ This the simple notepad application created with firebase and Android Studio (Ko
     * 5. We can delete that notes
     * 6. We can view that notes
 
-**Screenshot of Notepad Register Screen
+<ul>
+    <li>Milk</li>
+    <li>Cheese
+        <ul>
+            <li>Blue cheese</li>
+            <li>Feta</li>
+        </ul>
+    </li>
+</ul>
+
+Screenshot of Notepad Register Screen
 
 <img
      src="https://github.com/ChitranjanKumar78/Notepad/blob/master/app/src/main/res/drawable/Register%20Screen.png"
      width="300" 
      height="600"> 
      
-**Screenshot of Homapage Screen
+Screenshot of Homapage Screen
 
 <img
      src="https://github.com/ChitranjanKumar78/Notepad/blob/master/app/src/main/res/drawable/Homepage%20Screen.png"
      width="300" 
      height="600">
      
-**Screenshot of Add New Note Screen
+Screenshot of Add New Note Screen
 
 <img
      src="https://github.com/ChitranjanKumar78/Notepad/blob/master/app/src/main/res/drawable/Add%20Note%20Screen.png"
      width="300" 
      height="600">
 
-**Screenshot of Action Dialog Screen
+Screenshot of Action Dialog Screen
 
 <img
      src="https://github.com/ChitranjanKumar78/Notepad/blob/master/app/src/main/res/drawable/Action%20Screen.png"
      width="300" 
      height="600">
      
- **Screenshot of Update Note Screen
+Screenshot of Update Note Screen
 
 <img
      src="https://github.com/ChitranjanKumar78/Notepad/blob/master/app/src/main/res/drawable/Update%20Note%20Screen.png"
