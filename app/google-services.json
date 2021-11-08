@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774268191917",
+    "project_id": "notepad-e2a83",
+    "storage_bucket": "notepad-e2a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774268191917:android:88ee7f3cdd1fbf64d5b224",
+        "android_client_info": {
+          "package_name": "com.chitranjank.notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774268191917-t70etved7dtgb8lhgtnj2opsqgk3cr9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7TGeAPUpFWzqvKpnXDAqxJK7s3J7ONw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774268191917-t70etved7dtgb8lhgtnj2opsqgk3cr9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

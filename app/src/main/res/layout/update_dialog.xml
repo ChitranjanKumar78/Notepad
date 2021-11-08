@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <LinearLayout
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/view_note"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/tv_bck"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="View this note"
+            android:textColor="#FF9800"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/update_note"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/tv_bck"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Update this note"
+            android:textColor="#2196F3"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/delete_note"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/tv_bck"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Delete this note"
+            android:textColor="#F44336"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/tv_bck"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Cancel"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>
