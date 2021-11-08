@@ -1,12 +1,12 @@
 # Notepad
 
 This the simple notepad application created with firebase and Android Studio (Kotlin). We can use this app by following steps-
-    - 1. First we need to create an account using email & password
-    - 2. Then we can start creating our notes
-    - 3. We can create new notes
-    - 4. We can update that notes
-    - 5. We can delete that notes
-    - 6. We can view that notes
+    * 1. First we need to create an account using email & password
+    * 2. Then we can start creating our notes
+    * 3. We can create new notes
+    * 4. We can update that notes
+    * 5. We can delete that notes
+    * 6. We can view that notes
 
 **Screenshot of Notepad Register Screen
 
